@@ -1,6 +1,6 @@
 name: 'Barnard Pro Services '
 favicon: null
-layout_spectrum: 0.44383
+layout_spectrum: 0.88718
 typography_spectrum: 0.96794
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.1414341612253338
-  lightness: 0.060248467372730374
-  saturation: 0.19676059763878584
-  rhythmicContrast: 0.36185860470868647
+  brandStrength: 0.125
+  lightness: 0.1875
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
