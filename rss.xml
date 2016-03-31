@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Barnard Pro Services ]]></title>
         <description><![CDATA[Barnard Pro Services ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/barnard-pro-services/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 17:09:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 17:14:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/barnard-pro-services/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec9e69e4-9d9b-4c5a-920a-016c65b8c767.jpg">]]></description>
-            <link>undefined34630052-5d3e-4ab0-8a7a-9bee348fc544/index.html</link>
+            <link>https://thegrid.ai/barnard-pro-services/34630052-5d3e-4ab0-8a7a-9bee348fc544/index.html</link>
             <guid isPermaLink="false">34630052-5d3e-4ab0-8a7a-9bee348fc544</guid>
-            <pubDate>Thu, 31 Mar 2016 17:09:04 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 17:14:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
