@@ -1,0 +1,28 @@
+name: 'Barnard Pro Services '
+favicon: null
+layout_spectrum: 0.9293959869537503
+typography_spectrum: 0.0376062064897269
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1414341612253338
+  lightness: 0.060248467372730374
+  saturation: 0.19676059763878584
+  rhythmicContrast: 0.36185860470868647
+purpose: []
